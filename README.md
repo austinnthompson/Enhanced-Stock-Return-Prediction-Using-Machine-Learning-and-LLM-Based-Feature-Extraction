@@ -37,11 +37,7 @@ A Jupyter Notebook-based pipeline for AI-driven stock analysis, combining histor
 
 ## Installation
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/your-repo/stock-ai-analysis.git
-   cd stock-ai-analysis
-   ```
+1. Download the attached Jupyter Notebook File:
 
 2. Install dependencies (Python 3.11 recommended):
    ```
