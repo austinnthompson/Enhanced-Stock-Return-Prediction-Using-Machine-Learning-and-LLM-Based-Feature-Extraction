@@ -1,7 +1,4 @@
-2) upload code
 4) upload powerpoint
-5) upload html file example
-
 
 # Enhanced Stock Return Prediction Using Machine Learning and LLM-Based Feature Extraction
 
