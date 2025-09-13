@@ -17,7 +17,7 @@ The system supports scenario analysis by adjusting features (e.g., high volume, 
 
 Overall, this approach bridges traditional finance with AI, enabling nuanced predictions beyond pure quantitative models.
 
-Finally, this methodol0gy could be applied beyond finance to any problem that requires sorting through large amounts of contextual data to extract modeling features.
+Finally, this methodology could be applied beyond finance to any problem that requires sorting through large amounts of contextual data to extract modeling features.
 
 ## Project Overview
 
