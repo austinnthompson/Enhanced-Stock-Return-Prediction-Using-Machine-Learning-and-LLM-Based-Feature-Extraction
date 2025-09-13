@@ -59,14 +59,6 @@ A Jupyter Notebook-based pipeline for AI-driven stock analysis, combining histor
    - Scenario: Update `SCENARIO` dictionary for feature adjustments.
    - Training: Select ticker in `TRAINING_TICKER` and use bootstrapped data.
 
-## Results Example
-
-For TSLA (scenario: high volume, positive sentiment, high risk):
-- Drift (mu): 0.2215
-- Volatility (sigma): 0.1970
-- Expected Price: $371.22 (from starting $333.87)
-- Visuals: Monte Carlo paths and histogram.
-
 ## Limitations & Improvements
 - API rate limits may affect news fetching.
 - No real-time data; historical focus.
