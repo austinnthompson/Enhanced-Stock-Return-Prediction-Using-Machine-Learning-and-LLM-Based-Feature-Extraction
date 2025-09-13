@@ -15,7 +15,9 @@ An LLM (GPT-4), via OpenAI API, queries the RAG system to derive features such a
 
 The system supports scenario analysis by adjusting features (e.g., high volume, positive sentiment) to estimate drift (mu) and volatility (sigma), followed by Monte Carlo simulations for 1-week price forecasts. Bootstrapping expands the dataset for robust training. Results include MAE/RMSE metrics, cross-validation scores, and visualizations of paths and distributions.
 
-Key improvements noted: Hyperparameter tuning, modular code organization, SQL storage for data, and conditional model updates. This approach bridges traditional finance with AI, enabling nuanced predictions beyond pure quantitative models.
+Overall, this approach bridges traditional finance with AI, enabling nuanced predictions beyond pure quantitative models.
+
+Finally, this methodoly could be applied beyond finance to any problem that requires sorting through large amounts of contextual data to extract modeling features.
 
 ## Project Overview
 
