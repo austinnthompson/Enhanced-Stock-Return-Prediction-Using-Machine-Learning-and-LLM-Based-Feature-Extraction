@@ -1,5 +1,4 @@
 2) upload code
-3) update read me
 4) upload powerpoint
 5) upload html file example
 
