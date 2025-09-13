@@ -1,5 +1,8 @@
 1) fix code
-2) update read me
+2) upload code
+3) update read me
+4) upload powerpoint
+5) upload html file example
 
 
 # Enhanced-Stock-Return-Prediction-Using-Machine-Learning-and-LLM-Based-Feature-Extraction 
