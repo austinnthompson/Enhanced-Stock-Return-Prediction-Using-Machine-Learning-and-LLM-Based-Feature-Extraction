@@ -1,3 +1,7 @@
+1) fix code
+2) update read me
+
+
 # Enhanced-Stock-Return-Prediction-Using-Machine-Learning-and-LLM-Based-Feature-Extraction 
 
 ## Executive Summary
