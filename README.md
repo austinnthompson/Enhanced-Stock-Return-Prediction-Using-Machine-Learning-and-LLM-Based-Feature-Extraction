@@ -22,8 +22,8 @@ Key improvements noted: Hyperparameter tuning, modular code organization, SQL st
 A Jupyter Notebook-based pipeline for AI-driven stock analysis, combining historical data, and ML for forecasting.
 
 ## Repository files
-1) final python code
-2) html file demonstrating code
+1) final python code (download to run)
+2) html file demonstrating code (download to view)
 3) executive powerpoint and overview
 
 ### Key Features
