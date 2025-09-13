@@ -21,7 +21,7 @@ A Jupyter Notebook-based pipeline for AI-driven stock analysis, integrating hist
 
 ## Repository Files
 1. `project_code.ipynb`: Core Python code (download to run).
-2. `project_code.html`: HTML export of the notebook (download to view).
+2. `project_code.html`: HTML export of the executed code (download to view actual code demonstration).
 3. `executive_presentation.pptx`: Executive PowerPoint and overview.
 
 ### Key Features
