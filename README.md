@@ -1,5 +1,3 @@
-4) upload powerpoint
-
 # Enhanced Stock Return Prediction Using Machine Learning and LLM-Based Feature Extraction
 
 ## Executive Summary
