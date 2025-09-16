@@ -1,5 +1,9 @@
 # Enhanced Stock Return Prediction Using Machine Learning and LLM Based Feature Extraction
 
+## Project Overview
+
+A Jupyter Notebook-based pipeline for AI-driven stock analysis, integrating historical data, qualitative insights, and machine learning for accurate forecasting.
+
 ## Executive Summary
 
 This project presents a sophisticated stock forecasting framework that synergizes quantitative historical price data with qualitative insights derived from financial news, leveraging Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs). Targeting stocks such as AAPL and TSLA, the system retrieves 1-year weekly historical price data via yFinance and collects news articles through NewsAPI and GDELT. These texts are embedded using Sentence Transformers and indexed with FAISS for efficient retrieval.
@@ -9,10 +13,6 @@ A Large Language Model (GPT-4), accessed via the OpenAI API, queries the RAG sys
 The framework enables scenario analysis by modifying input features (e.g., high trading volume, positive sentiment) to estimate drift (mu) and volatility (sigma). Monte Carlo simulations generate 1-week price forecasts, visualized through price paths and distribution plots using Matplotlib. Bootstrapping enhances dataset robustness by expanding sample size for training.
 
 This methodology transcends traditional financial modeling by incorporating AI-driven qualitative analysis, offering nuanced predictions. Its versatility extends beyond finance, applicable to any domain requiring feature extraction from large contextual datasets, such as market research or policy analysis.
-
-## Project Overview
-
-A Jupyter Notebook-based pipeline for AI-driven stock analysis, integrating historical data, qualitative insights, and machine learning for accurate forecasting.
 
 ## Repository Files
 1. `project_code.ipynb`: Core Python code (download to run).
